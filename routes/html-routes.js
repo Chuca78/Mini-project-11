@@ -8,7 +8,7 @@ module.exports=function(app){
     });
 
     app.get('*', function (res,req){
-    console.log ('* htmlroute is working')
+    console.log ('* html route is working')
     res.sendFile(path.join(__dirname,'../public/index.html'));
     });
 }
