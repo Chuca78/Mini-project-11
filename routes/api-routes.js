@@ -9,11 +9,7 @@ module.exports = function(app) {
     });
 
     app.post("/api/notes", function(req, res) {
-        let id =  1;
-        if (db.length > 0) {
-            const last_note_id = db[db.length - 1].id;
-            id = last_note_id + 1;
-        };
+        let id = Math.floor((1 + Math.random()) * 0x10000).toString(10).substring(1);
 
         const new_note_object = req.body;
         new_note_object.id = id;
