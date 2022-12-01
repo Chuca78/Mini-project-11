@@ -9,7 +9,7 @@ module.exports = function(app) {
     });
 
     app.post("/api/notes", function(req, res) {
-        let id = 1;
+        let id =  1;
         if (db.length > 0) {
             const last_note_id = db[db.length - 1].id;
             id = last_note_id + 1;
