@@ -26,7 +26,10 @@ https://immense-plateau-55815.herokuapp.com/
 
 ```
 Open the app in your browser and take notes as needed. When the note has been completed it can be deleted.
+
+Alternately Run: node server.js
 ```
+![localhost_3001_notes html](https://user-images.githubusercontent.com/97859682/206426548-f6f8e3fb-5bd5-4712-a293-a7c38c6065b4.png)
 
 ## Credits
 
