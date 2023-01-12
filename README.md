@@ -29,6 +29,7 @@ Open the app in your browser and take notes as needed. When the note has been co
 
 Alternately Run: node server.js
 ```
+
 ![localhost_3001_notes html](https://user-images.githubusercontent.com/97859682/206426548-f6f8e3fb-5bd5-4712-a293-a7c38c6065b4.png)
 
 ## Credits
@@ -54,7 +55,7 @@ N/A
 Tim Fleck<br />
 Full-Stack Developer<br />
 [CHUCA78](https://github.com/Chuca78) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)<br />
-t.fleck@hotmail.com
+tfleck78@gmail.com
 
 ## Copyright
 
